@@ -1,5 +1,4 @@
-Perfect — here is your **complete, clean, GitHub-ready `README.md`** written again from scratch.
-👉 **Important:** Copy everything below and paste it directly into your `README.md` file (do NOT wrap it in ```).
+
 
 ---
 
@@ -377,15 +376,6 @@ Salesforce Developer
 
 ---
 
-## 📄 License
 
-This project is developed for **academic and learning purposes**.
-Free to use for educational and non-commercial applications.
 
 ---
-
-If you want, I can now:
-
-* Add a **Table of Contents**
-* Create a **PDF version**
-* Or format it for **college project submission** 📘
